@@ -18,7 +18,6 @@ export default {
   },
 
   async getUserByEmail(email: string): Promise<AdapterUser | null> {
-    // sacreddevking@gmail.com
     return null;
   },
 
@@ -30,7 +29,7 @@ export default {
     // {
     //   id: '2e79e340-fb52-4e65-a535-a656734b5b3f',
     //   name: 'DevKing',
-    //   email: 'sacreddevking@gmail.com',
+    //   email: '',
     //   image: 'https://avatars.githubusercontent.com/u/126603430?v=4',
     //   emailVerified: null
     // }

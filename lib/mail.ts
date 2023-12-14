@@ -1,7 +1,7 @@
 import { sendEmail } from "@/data/email";
 
 const domain = process.env.NEXT_PUBLIC_APP_URL;
-const fromEmail = "kre8tive@2advanced.com";
+const fromEmail = "";
 
 export const sendVerificationEmail = async (email: string, token: string) => {
   const confirmLink = `${domain}/auth/new-verification?token=${token}`;
