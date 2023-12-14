@@ -30,10 +30,10 @@ export const Finisher = () => (
       100% Curated With Love by
     </p>
     <Image
-      src="./2AdvancedLogo.svg"
+      src="./Logo.svg"
       width={233}
       height={111}
-      alt="2advanced logo"
+      alt="Creative logo"
     />
   </section>
 );

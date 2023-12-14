@@ -33,16 +33,16 @@ export const TaxForm = ({ onUpdate, onNext, onBack }: Props) => {
     <div className="w-full space-y-6">
       <div>
         <p className="mb-4">
-          US federal tax law requires Kre8tive to collect US Author tax
+          US federal tax law requires Creative to collect US Author tax
           information through an IRS Form W-9 and report on income paid.
         </p>
 
         <strong>If you are a U.S. Person</strong>
         <p className="mb-4">
           No matter where you are worldwide you can submit a Form W-9 to
-          Kre8tive to satisfy your filing requirement. Typically there will be
-          no withholding of taxes on any of your Kre8tive income. If you do not
-          submit a valid Form W-9, Kre8tive will be required to deduct 24%
+          Creative to satisfy your filing requirement. Typically there will be
+          no withholding of taxes on any of your Creative income. If you do not
+          submit a valid Form W-9, Creative will be required to deduct 24%
           withholding tax from sales proceeds and remit these directly to the
           Internal Revenue Service.
         </p>
@@ -53,12 +53,12 @@ export const TaxForm = ({ onUpdate, onNext, onBack }: Props) => {
           that has a tax treaty with the U.S., you will benefit from the reduced
           or zero withholding rate that is specified in your country`s tax
           treaty. If you are a resident of a country that does not have a tax
-          treaty with the U.S., then your U.S. source income from Kre8tive will
+          treaty with the U.S., then your U.S. source income from Creative will
           be subject to a 30% withholding tax.
         </p>
 
         <p>
-          While Kre8tive cannot give tax and/or legal advice, we will do our
+          While Creative cannot give tax and/or legal advice, we will do our
           best to provide you with the information you need to make your own
           decision about how to comply with applicable U.S. tax laws. If you
           still have questions after reviewing the information provided by the

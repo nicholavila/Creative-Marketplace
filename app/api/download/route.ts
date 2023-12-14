@@ -54,7 +54,7 @@ export const POST = async (req: NextRequest) => {
 export const GET = async () => {
   const fileList = [
     {
-      name: "kre8tive-temp_202404161915.rar",
+      name: "temp_202404161915.rar",
       path: "f7554959-06ef-453b-af79-0d7e483b500c"
     },
     {

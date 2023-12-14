@@ -22,7 +22,7 @@ export const LandingHeader = () => {
       <div className="w-full flex flex-wrap items-center justify-center md:justify-between gap-4">
         <Link className="mr-1" href="/">
           <Image
-            src="/Kre8tiveBranding.svg"
+            src="/Branding.svg"
             width={366}
             height={53}
             alt="logo"
@@ -30,7 +30,7 @@ export const LandingHeader = () => {
         </Link>
         <div className="hidden 2xl:block text-center font-firs">
           <div className="max-w-[480px] m-auto text-[15px] text-black leading-[18px] font-semibold">
-            KRE8TIVE is ushering in a vast library of specially-curated Premium
+          Creative is ushering in a vast library of specially-curated Premium
             digital assets for designers & developers.
           </div>
           <div className="max-w-[600px] mt-3.5 mx-auto text-[14px] text-[#3C58A0] leading-[15px] font-semibold">
@@ -57,7 +57,7 @@ export const LandingHeader = () => {
       </div>
       <div className="mt-6 block 2xl:hidden text-center font-firs">
         <div className="m-auto text-[15px] text-black leading-[18px] font-semibold">
-          KRE8TIVE is ushering in a vast library of specially-curated Premium
+          Creative is ushering in a vast library of specially-curated Premium
           digital assets for designers & developers.
         </div>
         <div className="mt-2 max-w-[650px] mx-auto text-[14px] text-[#3C58A0] leading-[15px] font-semibold">

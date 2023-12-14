@@ -11,7 +11,7 @@ export const MemberSignUp = () => (
           The only asset library membership you’ll ever need.
         </GradientParagraph>
         <p className="font-firs text-md md:text-[22px] text-[#757575] font-semibold leading-snug">
-          KRE8TIVE will offer a treasure trove of premium curated digital assets
+          Creative will offer a treasure trove of premium curated digital assets
           , priced to make your wallet smile.
         </p>
       </div>

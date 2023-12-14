@@ -16,9 +16,9 @@ import type { Metadata } from "next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Welcome to Kre8tive.io",
+  title: "Welcome to CreativeMarket.io",
   description:
-    "Kre8tive.io | Premier Digital Asset Marketplace | by 2Advanced Studios"
+    "CreativeMarket.io | Premier Digital Asset Marketplace | by Creative Studios"
 };
 
 export default async function RootLayout({

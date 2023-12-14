@@ -114,7 +114,7 @@ export const UserCompleteForm = ({
         fonts, images, Figma files, etc.
       </p>
       <p>
-        ** You will be invited to join the 2Advanced Discord Community, a
+        ** You will be invited to join the Creative Discord Community, a
         special offer only for site registrants, like a private bundle.
       </p>
       <div className="w-full flex items-center justify-between mt-4">

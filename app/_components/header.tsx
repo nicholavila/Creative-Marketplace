@@ -25,7 +25,7 @@ export const Header = () => {
         <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
           <Link href="/">
             <GradientParagraph className="text-gray-800 text-2xl font-bold font-firs leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase">
-              Kre8tive
+              Crea8tive
             </GradientParagraph>
           </Link>
         </div>

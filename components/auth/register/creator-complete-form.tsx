@@ -135,7 +135,7 @@ export const CreatorCompleteForm = ({
       </p>
       <p>
         ** Each product uploaded by a Creator needs to be submitted to an
-        Approval Queue on the Management side, whereby the Kre8tive Staff or
+        Approval Queue on the Management side, whereby the Creative Staff or
         Admins can go into the products, make edits, add files like Licensing
         Data.
       </p>

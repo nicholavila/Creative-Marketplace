@@ -13,7 +13,7 @@ export const CreatorSignUp = () => (
           {`It's time to recognize the `}
           <span className="font-bold">true worth</span>
           {` of your incredible designs and coded assets. Join `}
-          <span className="font-bold">KRE8TIVE</span>
+          <span className="font-bold">Creative</span>
           {`, where you'll `}
           <span className="font-bold">
             earn industry-leading payouts of over 80%+
