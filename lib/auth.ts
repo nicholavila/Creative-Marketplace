@@ -12,9 +12,9 @@ export const currentRole = async () => {
   return {
     isAuthenticated: session?.user || false,
     isManager: session?.user?.manager?.isManager || false,
-    isCreator: session?.user.creator?.isCreator || false,
-    isCustomer: session?.user.customer?.isCustomer || false,
-    isAffiliate: session?.user.affiliate?.isAffiliate || false,
-    userId: session?.user.userId || ""
+    isCreator: session?.user?.creator?.isCreator || false,
+    isCustomer: session?.user?.customer?.isCustomer || false,
+    isAffiliate: session?.user?.affiliate?.isAffiliate || false,
+    userId: session?.user?.userId || ""
   };
 };
